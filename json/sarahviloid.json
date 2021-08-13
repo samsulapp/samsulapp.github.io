@@ -5,12 +5,12 @@
       "select_backup_ads": "APPLOVIN",
       "status_app": "0",
       "link_redirect": "https://",
-      "admob_interid": "YOUR_PLACEMENT_ID",
-      "admob_nativeid": "YOUR_PLACEMENT_ID",
-      "admob_openid": "YOUR_PLACEMENT_ID",
+      "admob_interid": "xx",
+      "admob_nativeid": "xx",
+      "admob_openid": "xx",
       "interval": 3,
       "startappid": "201669628",
-
+      
       "fan_inter": "YOUR_PLACEMENT_ID",
       "fan_banner_native": "YOUR_PLACEMENT_ID",
 
@@ -19,7 +19,7 @@
       
       "applovin_banner": "YOUR_PLACEMENT_ID",
       "applovin_inter": "YOUR_PLACEMENT_ID",
-      "packagename": "com.digie.sarahviloid"
+      "packagename": "com.samsul.sarahviloid"
     }
   ],
   "More":
